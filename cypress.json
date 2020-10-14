@@ -1,6 +1,6 @@
 {
     "baseUrl": "https://hndr91.github.io/demo-ui/",
-    "ignoreTestFile": "*/examples/",
+    "ignoreTestFiles": "**/examples/*.js",
     "viewportWidth": 1920,
     "viewportHeight": 1080
 }
